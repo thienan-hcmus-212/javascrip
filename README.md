@@ -1,2 +1,2 @@
 # javascrip
-HakeRank Test!!!!
+HakeRank Test
