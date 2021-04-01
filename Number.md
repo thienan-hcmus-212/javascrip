@@ -18,9 +18,11 @@
     const bignum = BigInt("100000000000000")  
     ``` 
   - The `/` operator won't return any fractional digits
-        ```js
-        const rounded = 5n/2n // 2n not 2.5n 
-        ```
+
+      ```js
+      const rounded = 5n/2n 
+      // 2n not 2.5n 
+      ```
   - **Can't convert** *BigInt value* to *Number value*  
 - Numeric lexical grammar
   - **0b**101 is a Binary Number.
